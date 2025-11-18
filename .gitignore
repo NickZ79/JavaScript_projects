@@ -1,0 +1,42 @@
+# ---------------------------
+# Node / Tooling (future-proofing)
+# ---------------------------
+node_modules/
+package-lock.json
+yarn.lock
+
+# ---------------------------
+# OS-generated files
+# ---------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------
+# Temporary / cache files
+# ---------------------------
+*.log
+*.tmp
+*.cache
+
+# ---------------------------
+# IDE / editor files
+# ---------------------------
+# VS Code
+.vscode/
+
+# WebStorm / JetBrains
+.idea/
+
+# ---------------------------
+# Build / deployment directories (if added later)
+# ---------------------------
+dist/
+build/
+
+# ---------------------------
+# Misc
+# ---------------------------
+*.bak
+*.swp
+*.orig
